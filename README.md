@@ -18,4 +18,4 @@ NHR, HNR - Two measures of the ratio of noise to tonal components in the voice
 status - The health status of the subject (one) - Parkinson's, (zero) - healthy
 RPDE, D2 - Two nonlinear dynamical complexity measures
 DFA - Signal fractal scaling exponent
-spread1,spread2,PPE - Three nonlinear measures of fundamental frequency variation
+spread1,spread2,PPE - Three nonlinear measures of fundamental frequency variation.
